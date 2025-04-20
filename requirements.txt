@@ -1,0 +1,12 @@
+requests
+pyttsx3
+SpeechRecognition
+wikipedia
+pyautogui
+google-generativeai
+psutil
+youtube-search-python
+yt-dlp
+ecapture
+screen-brightness-control
+pytube
